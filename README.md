@@ -11,5 +11,5 @@ This repository contains five short, practical questions for a DevOps engineer i
 1. **.NET / OOP** – Classes, inheritance, abstraction.
 2. **PowerShell** – Fetch JSON, build objects, format output.
 3. **Docker / MSSQL** – Build a clean image with a health check and restored data.
-4. **IaC (Terraform)** – Model a simple, reusable cloud resource.
-5. **CI/CD** – Build and push the SQL Server image to GitHub Container Registry.
+4. **Investigation** – Diagnose a production slowness issue (Azure VM + Azure SQL).
+5. **CI/CD** – Build and push the SQL Server image using GitHub Actions or Azure Pipelines.
