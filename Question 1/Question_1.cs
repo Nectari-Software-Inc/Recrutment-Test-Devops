@@ -5,20 +5,15 @@ public class Program
 {
     public static void Main()
     {
-        List<Item> items = new List<Item>();
-	
-        //items contains all the items to buy
-        //add the table, paddle and balls with the required quantities
-        //Display the price of each item in items
-	
+        // TODO: Create a list to store items
+
+        // TODO: Create and add items to the list:
+        // - 1 Table (price: 300 EUR, weight: 75 kg, markup: 20%)
+        // - 2 Paddles (price: 35 EUR each, weight: 0.3 kg, markup: 20%)
+        // - 3 Packs of Balls (price: 8 EUR each, weight: 0.05 kg, markup: 20%)
+
+        // TODO: Display the name and full price (with markup) of each item
+
         Console.ReadLine();
     }
-}
-
-public abstract class Item
-{
-    protected int price;
-    protected float weight;
-    abstract public float getFullPrice();
-    public float Weight { get {return weight;} }
 }

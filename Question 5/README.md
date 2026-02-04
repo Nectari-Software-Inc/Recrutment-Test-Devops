@@ -12,7 +12,6 @@ ghcr.io/REPOSITORY_NAME/mssql:2019-latest
   - Build the Docker image.
   - Push it to GHCR.
 - You may answer using **GitHub Actions** or **Azure Pipelines** (your choice).
-- Use the repository name dynamically.
 
 **Deliverables**
 - Updated `cd.yml` (or an Azure Pipelines YAML file if you choose that route).
